@@ -40,4 +40,16 @@ return array[index]
   
 }
 
-function destructivelyRemoveElementFromBeginningOfArray
+function destructivelyRemoveElementFromBeginningOfArray(array){
+  
+return array.shift()  
+  
+}
+
+function removeElementFromBegginingofArray(array){
+  
+var grr = slice(0,0)
+
+return array
+  
+}
