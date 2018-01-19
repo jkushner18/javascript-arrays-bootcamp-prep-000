@@ -64,5 +64,10 @@ return array
   
 }
 
+removeElementFromEndofArray(array){
+  
+var lol = array.slice(0,array.length-1)  
 
+return lol
+}
 
