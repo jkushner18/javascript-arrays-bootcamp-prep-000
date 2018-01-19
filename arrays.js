@@ -10,8 +10,8 @@ return arr
 
 function destructivelyAddElementtoBeginningofArray(arr, ele){
   
-new = [ele,...arr];
+var yup = [ele, ...arr];
 
-return new
+return yup
   
 }
