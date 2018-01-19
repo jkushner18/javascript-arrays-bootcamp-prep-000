@@ -48,7 +48,7 @@ return array
   
 }
 
-function removeElementFromBegginingofArray(array){
+function removeElementFromBeginningOfArray(array){
   
 var grr = slice(0,0)
 
