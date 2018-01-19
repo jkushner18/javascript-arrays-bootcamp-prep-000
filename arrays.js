@@ -56,7 +56,7 @@ return grr
   
 }
 
-destrutivelyRemoveElementFromEndOfArray(array){
+function destrutivelyRemoveElementFromEndOfArray(array){
   
 array.pop();
 
