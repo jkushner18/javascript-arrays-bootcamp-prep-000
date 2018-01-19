@@ -55,3 +55,5 @@ var grr = array.slice(1)
 return grr
   
 }
+
+destrutively
