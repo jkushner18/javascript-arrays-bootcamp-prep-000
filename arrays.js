@@ -16,3 +16,19 @@ return array
 
 
 }
+
+function addElementToEndOfArray(array,element){
+  
+var geeze=[...array, element]  ;
+
+return geeze
+  
+}
+
+function destructivelyAddElementToEndOfArray(array,element){
+  
+array.push(element);
+
+return array
+  
+}
