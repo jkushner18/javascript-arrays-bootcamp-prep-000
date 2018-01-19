@@ -50,7 +50,7 @@ return array
 
 function removeElementFromBeginningOfArray(array){
   
-var grr = array.slice(0,0)
+var grr = array.slice(0,1)
 
 return array
   
