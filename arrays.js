@@ -52,6 +52,6 @@ function removeElementFromBeginningOfArray(array){
   
 var grr = array.slice(1)
 
-return array
+return grr
   
 }
