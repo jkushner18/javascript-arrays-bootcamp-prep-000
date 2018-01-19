@@ -13,8 +13,5 @@ arr.unshift(element)
 return arr
 
 
-var yup = [ele, ...arr];
 
-return yup
-  
 }
