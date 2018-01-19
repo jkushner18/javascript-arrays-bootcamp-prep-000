@@ -56,4 +56,11 @@ return grr
   
 }
 
-destrutively
+destrutivelyRemoveElementFromEndOfArray(array){
+  
+array.pop()
+
+return array}
+
+
+}
