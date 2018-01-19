@@ -33,3 +33,8 @@ return array
   
 }
 
+accessElementInArray(array, index){
+  
+return array[index]
+  
+}
