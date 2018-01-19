@@ -10,6 +10,8 @@ return arr
 
 function destructivelyAddElementtoBeginningofArray(arr, ele){
   
-(ele,...arr)
+new = [ele,...arr];
+
+return new
   
 }
