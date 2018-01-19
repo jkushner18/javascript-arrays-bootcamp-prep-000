@@ -1,6 +1,6 @@
 chocolateBars =["snickers", "hundred grand","kitkat", "skittles"]
 
-function addElementtoBeginningofArray(arr,ele){
+function addElementToBeginningOfArray(arr,ele){
   
 arr.unshift(ele)
 
@@ -8,7 +8,7 @@ return arr
   
 }
 
-function destructivelyAddElementtoBeginningofArray(arr, ele){
+function destructivelyAddElementToBeginningOfArray(arr, ele){
   
 var yup = [ele, ...arr];
 
